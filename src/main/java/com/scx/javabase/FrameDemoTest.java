@@ -26,7 +26,7 @@ public class FrameDemoTest {
 		instance = (Test)classLoader.loadClass("com.scx.javabase.FrameDemoTest$Test").newInstance();
 
 
-		URL url = classLoader.getResource("com/scx/JavaBase/FrameDemoTest.class");
+		URL url = classLoader.getResource("com/scx/javabase/FrameDemoTest.class");
 		System.out.println(url);
 
 		/**

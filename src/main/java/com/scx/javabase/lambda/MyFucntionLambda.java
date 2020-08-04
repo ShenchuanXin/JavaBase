@@ -1,4 +1,4 @@
-package com.scx.javabase.Lambda;
+package com.scx.javabase.lambda;
 
 @FunctionalInterface
 public interface MyFucntionLambda<T,R> {

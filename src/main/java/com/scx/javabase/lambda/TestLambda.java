@@ -1,4 +1,4 @@
-package com.scx.javabase.Lambda;
+package com.scx.javabase.lambda;
 
 import java.util.ArrayList;
 import java.util.Comparator;
